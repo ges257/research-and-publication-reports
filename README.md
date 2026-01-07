@@ -4,7 +4,6 @@
 
 **Academic Research and Technical Publications**
 
-[![Status](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)]
 [![Type](https://img.shields.io/badge/Type-Research-A78BFA?style=for-the-badge)]
 
 </div>
