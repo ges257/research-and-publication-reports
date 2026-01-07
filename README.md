@@ -4,7 +4,7 @@
 
 **Academic Research and Technical Publications**
 
-[![Type](https://img.shields.io/badge/Type-Research-A78BFA?style=for-the-badge)]
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=W6IsSzUAAAAJ&authuser=1)
 
 </div>
 
