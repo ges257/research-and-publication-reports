@@ -18,7 +18,7 @@
 
 A comprehensive benchmark for evaluating temporal knowledge graph completion methods across multiple domains.
 
-[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](papers/tempusbench-neurips.pdf)
+[![Paper](https://img.shields.io/badge/📄_Paper-Google_Scholar-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=W6IsSzUAAAAJ&authuser=1)
 
 ---
 
@@ -28,7 +28,7 @@ A comprehensive benchmark for evaluating temporal knowledge graph completion met
 
 Architectural proposal for a universal memory interface addressing the context window limitations of transformer-based models.
 
-[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](papers/memory-socket.pdf)
+[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](https://drive.google.com/file/d/14C-YTXMcgmEHANAISGsfKdKff8-nJ6LM/view?usp=sharing)
 
 ---
 
@@ -48,10 +48,10 @@ Statistical analysis examining the relationship between sleep quality and body m
 research-and-publication-reports/
 ├── README.md
 └── papers/
-    ├── tempusbench-neurips.pdf
-    ├── memory-socket.pdf
     └── sleep-bmi-physical-activity.pdf
 ```
+
+*TempusBench and Memory Socket are hosted externally (Google Scholar / Google Drive)*
 
 ---
 
