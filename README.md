@@ -38,7 +38,7 @@ Architectural proposal for a universal memory interface addressing the context w
 
 Statistical analysis examining the relationship between sleep quality and body mass index in adult populations, utilizing regression modeling and causal inference techniques.
 
-[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](papers/sleep-bmi-physical-activity.pdf)
+[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](https://github.com/ges257/msai-coursework/blob/main/reports/SleepBMI_Adults30_PhysActivity_Final.pdf)
 
 ---
 
@@ -46,12 +46,10 @@ Statistical analysis examining the relationship between sleep quality and body m
 
 ```
 research-and-publication-reports/
-├── README.md
-└── papers/
-    └── sleep-bmi-physical-activity.pdf
+└── README.md
 ```
 
-*TempusBench and Memory Socket are hosted externally (Google Scholar / Google Drive)*
+*Papers are hosted externally (Google Scholar / Google Drive / msai-coursework repo)*
 
 ---
 
