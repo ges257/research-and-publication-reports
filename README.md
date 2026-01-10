@@ -12,13 +12,15 @@
 
 ## Publications
 
-### 1. TempusBench: Temporal Knowledge Graph Benchmark
+### 1. TempusBench: An Evaluation Framework for Time-Series Forecasting
 
-**Venue:** NeurIPS 2024 Workshop Submission
+**Venue:** NeurIPS 2025 Workshop - *Recent Advances in Time Series Foundation Models: Have We Reached the 'BERT Moment'?*
 
-A comprehensive benchmark for evaluating temporal knowledge graph completion methods across multiple domains.
+**Authors:** Denizalp Goktas, Gerardo Riano-Briceno, Alif Abdullah, Aryan Nair, Chenkai Shen, Beatriz de Lucio, Alexandra Magnusson, Farhan Mashrur, Ahmed Abdulla, Shawrna Rani Sen, Mahitha Thippireddy, Gregory E Schwartz, Amy Greenwald
 
-[![Paper](https://img.shields.io/badge/📄_Paper-Google_Scholar-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=W6IsSzUAAAAJ&authuser=1)
+An open-source evaluation framework for time-series foundation models (TSFMs) addressing critical gaps in current benchmarking practices. TempusBench introduces: (1) new datasets not included in existing TSFM pretraining corpora to prevent data contamination, (2) novel benchmark tasks evaluating core statistical properties like non-stationarity and seasonality, (3) a standardized hyperparameter tuning protocol for fair model comparison, and (4) a TensorBoard-based visualization interface.
+
+[![Paper](https://img.shields.io/badge/📄_Paper-OpenReview-A78BFA?style=for-the-badge)](https://openreview.net)
 
 ---
 
