@@ -20,7 +20,7 @@
 
 An open-source evaluation framework for time-series foundation models (TSFMs) addressing critical gaps in current benchmarking practices. TempusBench introduces: (1) new datasets not included in existing TSFM pretraining corpora to prevent data contamination, (2) novel benchmark tasks evaluating core statistical properties like non-stationarity and seasonality, (3) a standardized hyperparameter tuning protocol for fair model comparison, and (4) a TensorBoard-based visualization interface.
 
-[![Paper](https://img.shields.io/badge/📄_Paper-OpenReview-A78BFA?style=for-the-badge)](https://openreview.net)
+[![Paper](https://img.shields.io/badge/📄_Paper-Google_Scholar-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=W6IsSzUAAAAJ&authuser=1)
 
 ---
 
