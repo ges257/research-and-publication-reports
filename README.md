@@ -10,8 +10,6 @@
 
 ---
 
-## Publications
-
 ### 1. TempusBench: An Evaluation Framework for Time-Series Forecasting
 
 **Venue:** NeurIPS 2025 Workshop - *Recent Advances in Time Series Foundation Models: Have We Reached the 'BERT Moment'?*
