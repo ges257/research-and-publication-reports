@@ -24,11 +24,11 @@ An open-source evaluation framework for time-series foundation models (TSFMs) ad
 
 ### 2. Memory Socket: Universal Storage Interface for Neural Inference
 
-**Type:** Technical Report
+**Type:** Technical Report | Sole Author
 
-Architectural proposal for a universal memory interface addressing the context window limitations of transformer-based models.
+![Memory Socket - The USB for AI Memory](assets/memory-socket-infographic.png)
 
-[![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](https://drive.google.com/file/d/14C-YTXMcgmEHANAISGsfKdKff8-nJ6LM/view?usp=sharing)
+[![Deck](https://img.shields.io/badge/📊_Deck-PDF-A78BFA?style=for-the-badge)](papers/Memory_Socket_Universal_Interface.pdf) [![Paper](https://img.shields.io/badge/📄_Paper-PDF-A78BFA?style=for-the-badge)](https://drive.google.com/file/d/14C-YTXMcgmEHANAISGsfKdKff8-nJ6LM/view?usp=sharing)
 
 ---
 
@@ -46,10 +46,14 @@ Statistical analysis examining the relationship between sleep quality and body m
 
 ```
 research-and-publication-reports/
-└── README.md
+├── README.md
+├── assets/
+│   └── memory-socket-infographic.png
+└── papers/
+    └── Memory_Socket_Universal_Interface.pdf
 ```
 
-*Papers are hosted externally (Google Scholar / Google Drive / msai-coursework repo)*
+*Additional papers hosted externally (Google Scholar / Google Drive / msai-coursework repo)*
 
 ---
 
