@@ -24,7 +24,7 @@ An open-source evaluation framework for time-series foundation models (TSFMs) ad
 
 ### 2. Memory Socket: Universal Storage Interface for Neural Inference
 
-**Type:** Technical Report | Sole Author
+**Type:** Research Paper | Sole Author
 
 ![Memory Socket - The USB for AI Memory](assets/memory-socket-infographic.png)
 
